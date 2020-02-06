@@ -1,0 +1,2 @@
+# pixicon
+Identicon / Hashicon generator
